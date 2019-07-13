@@ -9,7 +9,6 @@ function sum (input) {
 	for (i = 2; i < input.length; i++){
 
 		total += Number(input[i]);
-     	 	
 	}
 	return total;
 }
