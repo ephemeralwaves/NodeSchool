@@ -1,2 +1,2 @@
 # NodeSchool
-Exercises for nodeschool.io 
+ - Exercises for nodeschool.io 
